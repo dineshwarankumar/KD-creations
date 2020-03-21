@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2020 by anonymous (http://jsbin.com/xejoqipomu/1/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+  <head>
+    <body bgcolor="grey">
+    <title>KD Creations</title>
+  </head>
+  <body>
+    <!-- Favourite receipe name-->
+    <center><h1><p><em>Noodles</em></p></h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruhJ4GC0wfUapqLkC87W023bt4MKkVGGaQyv2p6Yie1AnqHSE&s" alt="Trulli" width="500" height="333" align="middle"></center>
+    <!--Incredients for noodles preparation-->
+    <center><h1><p><em>--Incredients for noodles preparation--</em></p></h1></center>
+    <ul>
+      <li> Noodles</li>
+      <li> Water</li>
+      <li> Salt</li>
+      <li> Oil</li>
+      <li> Vegetables</li>
+      <li> Chilli powder</li>
+    </ul>
+    <!--Steps for cooking Noodles-->
+    <center><h1><p><em>--Steps for cooking Noodles--</em></p></h1></center>
+    <ol>
+      <li>First boil enough water with a bit of salt and ½ to 1 teaspoon oil.</li>
+      <li>Add the noodles and cook them.</li>
+      <li>When the noodles are all dente or just about cooked, strain them in a colander.</li> 
+      <li>Then rinse them with fresh water.</li>
+      <li>Drain off the extra water.</li>
+      <li>Later, you can even add  1 to 2 teaspoons of oil on the cooked noodles.</li>
+      <li>Mix the oil gently with the noodles and keep aside.</li>
+      <li>Later use the boiled noodles in any stir fried noodle recipe.</li>
+    </ol>
+    <!--Final Noodles-->
+    <center><h1><p><em>--Final Obtained Result--</em></p></h1>
+      <img src="https://www.cookwithmanali.com/wp-content/uploads/2018/04/Instant-Pot-Thai-Peanut-Noodles-500x375.jpg" alt="Trulli" width="500" height="333" align="middle"></center>
+    <p align="right"> Done by </p>
+    <p align="right"> KD Creations </p>
+  </body>
+</html>
